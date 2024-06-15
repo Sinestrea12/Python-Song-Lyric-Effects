@@ -26,5 +26,5 @@
   6 ขำโค้ดที่เขียนเอามาลง หรือ uplode file
   
   7 ตรวจโค้ดแล้วกดรัน
-
-  -Support in box Discord @kuroneko0871
+  
+ -Support in box Discord @kuroneko0871
